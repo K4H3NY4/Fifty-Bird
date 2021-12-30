@@ -14,6 +14,8 @@
 
 * Install love2d using the command ``` sudo apt-get install love ```
 
+* For Mac Os use command ``` brew install --cask love ```
+
 * Now clone the repo into your machine using ``` git clone git@github.com:Mahiuha/Fifty-Bird.git ```
 
 * Next navigate to the folder in terminal using ``` cd Fifty-Bird ```
